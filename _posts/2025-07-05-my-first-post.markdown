@@ -1,8 +1,8 @@
 ---
-layout: post
+layout: default
 title: "Jekyll 블로그 시작하기"
-date: 2025-07-09 14:20:00 +0900
-categories: [블로그, 튜토리얼]
+date: 2025-07-05 14:20:00 +0900
+categories: blog
 ---
 
 안녕하세요! Jekyll 블로그 첫 게시글입니다.  
