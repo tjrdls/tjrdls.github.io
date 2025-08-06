@@ -15,3 +15,5 @@ title: 블로그 글 목록
     </li>
   {% endfor %}
 </ul>
+
+[LinkedIn 프로필]({{ site.linkedin_url }})
