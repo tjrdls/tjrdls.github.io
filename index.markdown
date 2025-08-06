@@ -18,4 +18,4 @@ title: 블로그 글 목록
 
 
 ### about me
-[LinkedIn 프로필]({{ site.linkedin_url }})
+[LinkedIn 프로필](https://www.linkedin.com/in/%EC%84%9D%EC%9D%B8-%EC%9D%B4-858710378/)
