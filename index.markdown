@@ -16,4 +16,6 @@ title: 블로그 글 목록
   {% endfor %}
 </ul>
 
+
+### about me
 [LinkedIn 프로필]({{ site.linkedin_url }})
